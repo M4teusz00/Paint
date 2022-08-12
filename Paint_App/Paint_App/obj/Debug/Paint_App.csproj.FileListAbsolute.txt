@@ -1,0 +1,11 @@
+C:\Users\mateu\OneDrive\Pulpit\PO\Paint_App\Paint_App\obj\Debug\Paint_App.csproj.AssemblyReference.cache
+C:\Users\mateu\OneDrive\Pulpit\PO\Paint_App\Paint_App\obj\Debug\Paint_App.csproj.SuggestedBindingRedirects.cache
+C:\Users\mateu\OneDrive\Pulpit\PO\Paint_App\Paint_App\obj\Debug\Paint_App.Form1.resources
+C:\Users\mateu\OneDrive\Pulpit\PO\Paint_App\Paint_App\obj\Debug\Paint_App.Properties.Resources.resources
+C:\Users\mateu\OneDrive\Pulpit\PO\Paint_App\Paint_App\obj\Debug\Paint_App.csproj.GenerateResource.cache
+C:\Users\mateu\OneDrive\Pulpit\PO\Paint_App\Paint_App\obj\Debug\Paint_App.csproj.CoreCompileInputs.cache
+C:\Users\mateu\OneDrive\Pulpit\PO\Paint_App\Paint_App\bin\Debug\Paint_App.exe.config
+C:\Users\mateu\OneDrive\Pulpit\PO\Paint_App\Paint_App\bin\Debug\Paint_App.exe
+C:\Users\mateu\OneDrive\Pulpit\PO\Paint_App\Paint_App\bin\Debug\Paint_App.pdb
+C:\Users\mateu\OneDrive\Pulpit\PO\Paint_App\Paint_App\obj\Debug\Paint_App.exe
+C:\Users\mateu\OneDrive\Pulpit\PO\Paint_App\Paint_App\obj\Debug\Paint_App.pdb
